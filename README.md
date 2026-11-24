@@ -1,16 +1,16 @@
-## Hi there 👋
+# Abdallah Zaref
 
-<!--
-**AbdallahZarif/AbdallahZarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graphic designer in Cairo working on open-source visual assets and practical UI improvements. I design SVG systems for Arabic and bilingual products, and contribute code and documentation where it helps a public project.
 
-Here are some ideas to get you started:
+## Open-source project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Arabic Finance Icons](https://github.com/AbdallahZarif/arabic-finance-icons)** — 16 original, editable SVG icons for financial interfaces. The repository includes an MIT license, bilingual catalog, preview, and validation tools.
+
+## Contributions in review
+
+- **[ins_sim: application icon](https://github.com/jorgieo/ins_sim/pull/37)** — original artwork and integration into the Qt window and packaged builds.
+- **[ins_sim: About dialog](https://github.com/jorgieo/ins_sim/pull/38)** — version information and scrollable third-party notices.
+
+These pull requests are open and belong to the upstream maintainer for review. I use AI assistance in parts of my workflow and disclose it in the contribution descriptions.
+
+Interested in accessible iconography, bilingual interfaces, and useful contributions to open-source design tools.
